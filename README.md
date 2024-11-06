@@ -1,6 +1,6 @@
 # The Odin Project JavaScript
 
-![To Do Home](./src/images/mountain-background.png)
+![To Do Home](./src/img/home.png)
 
 ## Project: Restaurant Page
 
